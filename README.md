@@ -1,16 +1,21 @@
-## Hi there 👋
+## 👋 Hi, I’m Inco
 
-<!--
-**john-zhaoyuanzhen/john-zhaoyuanzhen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🆔 Short for Incognito
 
-Here are some ideas to get you started:
+🎓 UCL & Cambridge
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🙈 Physics | Data Science | AI | Quant Dev | Web3 Builder 
+
+📍 Based in Shanghai
+
+🌐 Remote Friendly 
+
+📧 0xInco@proton.me
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Solidity-363636?style=for-the-badge&logo=solidity&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rust-%23000000?style=for-the-badge&&logo=rust&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" />
+  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" />
+</div>
